@@ -1,13 +1,6 @@
 <h1 align="center">Hey, I'm Henry.</h1>
 <p align="center">I love data engineering and analysis, as well as self-hosted technology, TTRPGs, and lots of other stuff.</p>
 
-
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4AE3FF&center=true&vCenter=true&width=435&lines=⇌ Data+Engineer;Data+Analyst ▂▄▆▇█; Full-Stack+Dev ❖;" alt="Typing SVG" />
-</div>
-
 ---
 
 ### Tech Stack
