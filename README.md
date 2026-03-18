@@ -7,7 +7,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,grafana,aws,angular,flask,docker,typescript" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,laravel, react, grafana,aws,angular,flask,docker,typescript, " alt="Tech stack icons" />
 </p>
 
 ---
@@ -34,14 +34,11 @@
 
 
 ---
-### Recs
-  - Book - <b>
-This Is How You Lose the Time War
-</b> by Amal El-Mohtar and Max Gladstone
-  - Movie - <b>Whiplash</b> (2014)
-  - Anime - <b>Mob Psycho 100</b>
-  - Manga - <b>Vinland Saga</b>
-  - Song - <b>Simulation Swarm</b> by Big Thief
+### Media Recommendations
+  - Book - <b>This Is How You Lose the Time War</b> by Amal El-Mohtar and Max Gladstone
+  - Movie - <b>100 Meters</b> (2025)
+  - Song - <b>Even in Arcadia</b> by Sleep Token
+  - Game - <b>Slay the Spire<b> | <i>call me and lets co-op a run!<i>
 
 
 
