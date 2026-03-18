@@ -7,7 +7,7 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,laravel, react, grafana,aws,angular,flask,docker,typescript, " alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,laravel, react, grafana,aws,angular,flask,docker,typescript" alt="Tech stack icons" />
 </p>
 
 ---
