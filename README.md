@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Henry.</h1>
 <p align="center">I love data engineering and analysis, as well as self-hosted technology, TTRPGs, and lots of other stuff.</p>
-<p align="center"><a href="mailto:henriquefboldrin@gmail.com">henrique.boldrin@gmail.com</a> · <a href="https://cal.com/henrique-fb">My cal.com</a> </p>
+<p align="center"><a href="mailto:henriquefboldrin@gmail.com">henriquefboldrin@gmail.com</a> · <a href="https://cal.com/henrique-fb">My cal.com</a> </p>
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,laravel, react, grafana,aws,angular,flask,docker,typescript" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,laravel,react,grafana,aws,angular,flask,docker,typescript" alt="Tech stack icons" />
 </p>
 
 ---
